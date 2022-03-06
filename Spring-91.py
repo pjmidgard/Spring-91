@@ -513,8 +513,8 @@ class compression:
                                                 T7=T7-((10**5)*T8)
                                                 T7=(T7*j)
                                                
-                                                 Deep5=Deep5+15
-                                                 Deep4=Deep4+15
+                                                Deep5=Deep5+15
+                                                Deep4=Deep4+15
                                                
                                         
                                        
